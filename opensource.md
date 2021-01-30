@@ -1,12 +1,12 @@
-#Open Source url
+# Open Source url
 
 Object Detection
 --
-[link1](https://github.com/facebookresearch/Detectron)
+[Object Detection link](https://github.com/facebookresearch/Detectron)
 
 SLAM
 --
-[SLAM][link2]
+[SLAM link][link2]
 
-[link2]:https://github.com/facebookresearch/Detectron
+[link2]: https://github.com/uzh-rpg/rpg_trajectory_evaluation
 
