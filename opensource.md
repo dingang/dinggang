@@ -2,11 +2,11 @@
 
 Object Detection
 --
-[Detection][link1]
-link1 = https://github.com/facebookresearch/Detectron
+Link: [Detection][link1]
+[link1]: https://github.com/facebookresearch/Detectron
 
 SLAM
 --
-[SLAM][link2]
-link2 =  https://github.com/facebookresearch/Detectron
+Link: [SLAM][link2]
+[link2]:  https://github.com/facebookresearch/Detectron
 
