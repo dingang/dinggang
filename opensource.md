@@ -6,7 +6,7 @@ Object Detection
 
 SLAM
 --
-Link: [SLAM][link2]
+[SLAM][link2]
 
 [link2]:https://github.com/facebookresearch/Detectron
 
